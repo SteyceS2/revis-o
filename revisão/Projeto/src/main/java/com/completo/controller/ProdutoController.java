@@ -1,4 +1,4 @@
-package com.completo.controller;
+package com.projeto.controller;
 
 public class ProdutoController {
 
